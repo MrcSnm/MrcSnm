@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### What's going on
+- 🔭 Currently working on **Breaker: Evolution**
+- 🌱 Currently learning **Shaders and D-Lang** <!-- - 🤔 I’m looking for help with ...-->
+- :electric_plug: My discord community [**Hipreme Entertainment**](https://discord.gg/eKQDJG)
+- 📫 Send me a [message](mailto:msnmancini@hotmail.com)
 <!--
 **MrcSnm/MrcSnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
