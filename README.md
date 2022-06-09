@@ -1,7 +1,7 @@
 ### What's going on
 - 🔭 Currently working on **Breaker: Evolution**
 - 🌱 Currently learning **Shaders and D-Lang** <!-- - 🤔 I’m looking for help with ...-->
-- :electric_plug: My discord community [**Hipreme Entertainment**](https://discord.gg/eKQDJG)
+- :electric_plug: My discord community [**Hipreme Entertainment**](https://discord.gg/DkGeYwsPXe)
 - 📫 Send me a [message](mailto:msnmancini@hotmail.com)
 
 ### Stas
